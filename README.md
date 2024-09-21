@@ -1,6 +1,6 @@
 # conversational-insights-platform
 
-Overview
+**Overview**:
 The Conversational Insights Platform is a web application designed to analyze audio and video files, transcribing the content and extracting meaningful insights. It utilizes Natural Language Processing (NLP) techniques to perform sentiment analysis, topic extraction, and emotion visualization.
 
 **Features**
@@ -36,7 +36,7 @@ Mutagen: For reading audio file metadata
 **Installation**
 
 **Clone the repository:**
-git clone https://github.com/SHERYL267/conversational-insights-platform.git
+git clone https://github.com/SHERYL267/conversational-insights-platform.git  
 cd conversational-insights-platform
 
 **Create and activate a virtual environment:**
