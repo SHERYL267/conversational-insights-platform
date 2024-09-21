@@ -36,15 +36,19 @@ Mutagen: For reading audio file metadata
 **Installation**
 
 **Clone the repository:**
+
 git clone https://github.com/SHERYL267/conversational-insights-platform.git  
 cd conversational-insights-platform
 
 **Create and activate a virtual environment:**
+
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 **Install the required packages:**
+
 pip install -r requirements.txt
 
 **Start the Streamlit application:**
+
 streamlit run app.py
