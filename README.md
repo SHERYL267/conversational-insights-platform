@@ -5,7 +5,6 @@ The Conversational Insights Platform is a web application designed to analyze au
 
 Features
 Audio/Video Upload: Upload MP3, WAV, or MP4 files for analysis.
-
 Transcription: Automatically transcribes spoken content into text.
 
 Sentiment Analysis: Analyzes the sentiment of the transcribed text (positive, negative, neutral).
